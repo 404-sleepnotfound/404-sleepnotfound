@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi 👋 I'm Divya
 
-<!--
-**404-sleepnotfound/404-sleepnotfound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Software Developer | AI Enthusiast | Builder of Smart Systems  
+🧠 Currently exploring AI agents, automation, and real-world productivity tools  
+💻 I love turning ideas into working projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project
+
+### AI-Powered Agentic Task Assistant
+An AI-powered productivity assistant that breaks user goals into structured tasks using the Gemini API. It tracks progress, suggests next steps, and acts like a smart task manager.
+
+🔗 GitHub: https://github.com/404-sleepnotfound/AI-Powered-Agentic-Task-Assistant.git
+
+---
+
+## 🧩 Other Projects
+
+### 🎮 Tic-Tac-Toe Game
+A colorful interactive web-based game with win detection and simple UI logic.
+
+### 🅿️ Parking Management System (C++)
+A console-based system using OOP, file handling, queues, stacks, and exception handling.
+
+---
+
+## 🛠️ Tech Stack
+
+- Python  
+- C++  
+- HTML / CSS / JavaScript  
+- Gemini API  
+- Git & GitHub  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=404-sleepnotfound&show_icons=true&theme=default)
+
+---
+
+## 🎯 Current Focus
+
+- Building AI-powered projects  
+- Learning system design basics  
+- Improving backend + API integration skills  
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/404-sleepnotfound  
+- LinkedIn: https://www.linkedin.com/in/divya-bajaj-41a514323   
+
