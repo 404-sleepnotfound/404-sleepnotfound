@@ -37,7 +37,7 @@ A console-based system using OOP, file handling, queues, stacks, and exception h
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=404-sleepnotfound)
 
 ---
 
