@@ -11,7 +11,7 @@
 ### AI-Powered Agentic Task Assistant
 An AI-powered productivity assistant that breaks user goals into structured tasks using the Gemini API. It tracks progress, suggests next steps, and acts like a smart task manager.
 
-🔗 GitHub: https://github.com/codedby-divya/AI-Powered-Agentic-Task-Assistant.git
+🔗 GitHub: https://github.com/divyabajaj211/AI-Powered-Agentic-Task-Assistant.git
 
 ---
 
@@ -37,7 +37,7 @@ A console-based system using OOP, file handling, queues, stacks, and exception h
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codedby-divya)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divyabajaj211)
 
 ---
 
@@ -51,6 +51,6 @@ A console-based system using OOP, file handling, queues, stacks, and exception h
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/codedby-divya  
+- GitHub: https://github.com/divyabajaj211 
 - LinkedIn: https://www.linkedin.com/in/divya-bajaj-41a514323   
 
